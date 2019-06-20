@@ -6,8 +6,8 @@
 
 Stavebnice elektronické hrací kostky. Zmáčkni tlačítko start a nech pracovat náhodu.
 
-* [Návod na stavbu](docs/manual-cz.md)
-* [Nahrání nového firmware](docs/firmware_cz.md)
+* [Návod na stavbu](doc/manual-cz.md) ([PDF](doc/manual-cz.pdf))
+* [Nahrání nového firmware](doc/firmware_cz.md)
 
 ## English
 
