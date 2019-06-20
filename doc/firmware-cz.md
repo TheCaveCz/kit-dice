@@ -6,12 +6,14 @@ Kód je určený pro Arduino IDE. Pro nahrání do procesoru je nejprve potřeba
 
 Po nainstalování vyber v menu Tools (Nástroje) následující možnosti:
 
+| Možnost | Hodnota |
+| --- | --- |
 | Board | ATTiny13 |
 | BOD | 1.8V |
 | LTO | Enabled |
 | Clock | 1.2MHz internal OSC |
 
-Procesor ATtiny13 nemá bootloader, takže je potřeba použít programátor (např. AVRisp nebo USBasp). 
+Procesor ATtiny13 nemá bootloader, takže je potřeba použít programátor (např. AVRisp nebo USBasp). Po připojení programátoru k ISP konektoru J1 v Arduino IDE zvolte možnost "Tools / Burn bootloader" a poté "Sketch / Upload"
 
 ---
 
